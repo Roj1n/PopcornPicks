@@ -2,6 +2,14 @@
 
 Welcome to **PopcornPicks**, your ultimate movie recommendation platform! Built with **React**, **Vite**, and **TailwindCSS**, **PopcornPicks** offers users personalized movie suggestions based on ratings and preferences, with a smooth and responsive design.
 
+## 🚀 Live Demo
+
+Check out the live version of **PopcornPicks** here:
+
+👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://your-vercel-demo-url.vercel.app)
+
+
+
 ---
 
 ## 📑 Table of Contents
