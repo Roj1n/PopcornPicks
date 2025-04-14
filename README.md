@@ -64,7 +64,7 @@ To run **PopcornPicks** locally:
 ```bash
   npm install
 ```
-4:Start the development server:
+4.Start the development server:
 ```bash
  npm run dev
 ```
@@ -106,7 +106,7 @@ We welcome contributions! To contribute to **PopcornPicks**:
 2. **Clone your fork**:
    ```bash
    git clone https://github.com/your-username/PopcornPicks.git
-``
+   ```
 3.**Create a new branch**:
 ```bash
 git checkout -b feature-branch
