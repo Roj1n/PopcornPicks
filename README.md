@@ -6,7 +6,7 @@ Welcome to **PopcornPicks**, your ultimate movie recommendation platform! Built 
 
 Check out the live version of **PopcornPicks** here:
 
-👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://your-vercel-demo-url.vercel.app)
+👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://popcorn-picks-smoky.vercel.app/)
 
 
 
