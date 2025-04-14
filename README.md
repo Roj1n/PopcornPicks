@@ -42,7 +42,6 @@ PopcornPicks is **not just about movie recommendations** — it’s a beautiful 
 ### 🚀 **Awesome Features of PopcornPicks**:
 
 - **Personalized Recommendations**: Based on ratings and preferences, PopcornPicks intelligently suggests movies you’ll love.
-- **Search Functionality**: Search for movies by title, genre, rating, etc.
 - **User Ratings**: Rate movies and improve personalized recommendations over time.
 - **Mobile-First**: Enjoy PopcornPicks on **any device**, with a seamless mobile and desktop experience.
 - **Optimized Performance**: **Vite** ensures fast load times and **instant updates**.
@@ -56,3 +55,92 @@ To run **PopcornPicks** locally:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/PopcornPicks.git
+2.Navigate to the project Directory:
+  ```bash
+  cd PopcornPicks
+```
+
+3.Install the dependencies:
+```bash
+  npm install
+```
+4:Start the development server:
+```bash
+ npm run dev
+```
+5.Open your browser and go to http://localhost:3000 to see the app in action!
+
+---
+##🚀 Usage
+Once the app is up and running, here’s how you can use it:
+
+-**Explore Movies**: Browse through various categories and suggestions.
+
+-**Rate Movies:** Rate movies you've watched to receive better recommendations.
+
+-**Mobile Optimization**: PopcornPicks is mobile-friendly and responsive, providing a top-notch experience across all devices.
+---
+---
+
+## 🎨 Design and UI
+
+PopcornPicks' design is built using **TailwindCSS**, which ensures:
+
+- **Mobile-First Approach**: Tailored for mobile users, with the layout scaling beautifully to larger screens.
+- **Interactive UI**: Smooth animations and transitions that make the user experience enjoyable.
+- **Customization**: Easily tweak or add new styles as the project grows with Tailwind’s utility classes.
+
+### 💡 Key UI Features:
+
+- **Minimalist Design**: Clean layout with a focus on movie recommendations.
+- **Reusable Components**: React components allow for easy reusability and maintainability.
+- **Seamless Responsiveness**: Using TailwindCSS, the app automatically adjusts to the screen size of any device.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! To contribute to **PopcornPicks**:
+
+1. **Fork the repository**.
+2. **Clone your fork**:
+   ```bash
+   git clone https://github.com/your-username/PopcornPicks.git
+``
+3.**Create a new branch**:
+```bash
+git checkout -b feature-branch
+```
+4.**Make your changes and commit them:**
+```bash
+git commit -am 'Add new feature'
+```
+5.**Push to your branch**:
+```bash
+git push origin feature-branch
+```
+6.Open a pull request to the main repository.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. For more details, check out the [LICENSE](LICENSE) file.
+
+---
+
+## 📬 Contact
+
+Feel free to reach out:
+
+- **GitHub**: [@Roj1n](https://github.com/Roj1n)
+- **Email**: rojinsh8080@gmail.com
+
+
+---
+
+
+
+
+
+
